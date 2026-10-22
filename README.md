@@ -1,3 +1,3 @@
 # HelloWorldMaven
 Sample Maven Project
-Mithra
+Mithra SJ
